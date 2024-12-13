@@ -2,5 +2,7 @@ RENCANA LERN CODING
 JavaScript
   ~ Udah Tau Fundamental Node
   ~ Udah Tau Fundamental React
+    ^Angular
+    ^React
 Ptyhon
-  ~ Buat Web AI 
+  ~ Struktur Data
