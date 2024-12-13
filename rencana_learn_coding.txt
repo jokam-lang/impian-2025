@@ -3,3 +3,4 @@ JavaScript
   ~ Udah Tau Fundamental Node
   ~ Udah Tau Fundamental React
 Ptyhon
+  ~ Buat Web AI 
