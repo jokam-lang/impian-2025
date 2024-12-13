@@ -6,3 +6,4 @@ JavaScript
 Ptyhon
   ~ Buat Web AI 
     ^OpenCV
+    ^Buat MechineL Micro
