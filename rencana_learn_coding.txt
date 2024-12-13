@@ -2,5 +2,8 @@ RENCANA LERN CODING
 JavaScript
   ~ Udah Tau Fundamental Node
   ~ Udah Tau Fundamental React
+    ^ NextJS
 Ptyhon
   ~ Buat Web AI 
+    ^OpenCV
+    ^Buat MechineL Micro
